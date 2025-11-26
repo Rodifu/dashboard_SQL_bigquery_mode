@@ -3,7 +3,7 @@ SELECT
   order_id,
   MIN(order_date) as order_date,
   SUM(revenue_usd) as order_value
-FROM starbucks.starbucks_orders_monthly_usd
+FROM data-474517.starbucks.starbucks_orders_monthly_usd
 GROUP BY order_id
 ),
 
