@@ -1,5 +1,5 @@
 # Dashboard with Bigquery and Mode
-Here I created a Dashboard in Mode using Bigquery as database. I'll explain more about each analysis.
+I created a Dashboard in Mode using SQL as language and BigQuery as database. I'll explain more about each analysis here.
 
 # Starbucks SQL Analytics (Mode / BigQuery)
 
