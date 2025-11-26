@@ -1,0 +1,8 @@
+Heeey,
+
+If you want to access the dataset, you can call the project in BigQuery:
+
+SELECT *
+FROM data-474517.starbucks;
+
+............@.@...:)
